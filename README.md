@@ -8,6 +8,9 @@ The project showcases PWA knowledge. As an application that runs in the browser 
 
 To run this application please make sure to install IdexedDB database: (Run this line of code in the terminal please): npm i idb
 
-## Video Walkthrough 
-
 ## Supporting Pictography
+![Text Editor Snip](.client/src/images/textEditor.png)
+
+## Deployed Website (Heroku)
+
+https://damp-inletnode-81622.herokuapp.com/
