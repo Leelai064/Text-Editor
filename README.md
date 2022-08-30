@@ -16,5 +16,4 @@ To run this application please make sure to install IdexedDB database: (Run this
 
 https://damp-inlet-81622.herokuapp.com/
 
-![Text Editor Snip](.client/src/images/textEditor.png)
 
